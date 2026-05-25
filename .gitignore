@@ -14,6 +14,9 @@ secrets*.json
 **/*secret*
 **/*password*
 
+# ---------- Despliegue (carpeta Bi y manual de uso) ----------
+06_Deployment/
+
 # ---------- Data (carpeta datos) ----------
 Data/
 
@@ -29,6 +32,11 @@ venv/
 .venv/
 __pycache__/
 *.pyc
+# ---------- PowerPoint ----------
+*.ppt
+*.pptx
+*.pps
+*.ppsx
 
 # ---------- dbt ----------
 dbt/**/target/

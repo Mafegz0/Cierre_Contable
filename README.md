@@ -74,7 +74,8 @@ Credito-y-Cartera/
 ├── 02_Data_Understanding/
 │   ├── data_inventory.xlsx
 │   ├── data_dictionary.xlsx
-│   ├── quality_assessment_report.md
+│   ├── data_quality_rules.yaml
+│   └── README.md
 │
 ├── 03_Data_Preparation/
 │   ├── PowerQuery_Transformations.md 
@@ -92,13 +93,10 @@ Credito-y-Cartera/
 │
 ├── 05_Evaluation/
 │   ├── validation_report.md
-│   ├── performance_metrics.xlsx
-│   └── README.md
 │
 ├── 06_Deployment/
 │   ├── powerbi/
 │   ├── Manual_de_usuario.pdf
-│   └── README.md
 │
 ├── Data/
 │
