@@ -121,13 +121,10 @@ Incluye:
 - Construcción de métricas financieras
 - Documentación estructurada del modelo
 
-No incluye:
+## Publicación y Consumo
 
-- Desarrollo de modelos predictivos
-- Integraciones automatizadas (ETL productivo)
+El visualizador financiero es publicado en Power BI Service y consumido por áreas financieras y directivas mediante acceso corporativo institucional.
 
-Se coordina con tecnología:
-- Publicación del visualizador 
 
 ##  Responsable técnico
 
