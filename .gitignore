@@ -14,8 +14,10 @@ secrets*.json
 **/*secret*
 **/*password*
 
-# ---------- Despliegue (carpeta Bi y manual de uso) ----------
-06_Deployment/
+# ---------- Despliegue: solo documentación pública ----------
+# No publicar PBIX, manuales institucionales ni subcarpetas de despliegue
+/06_Deployment/**
+!/06_Deployment/README.md
 
 # ---------- Data (carpeta datos) ----------
 Data/
